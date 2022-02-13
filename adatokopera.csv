@@ -1,0 +1,413 @@
+id;cim;eredeti;szinhaz;ev;felvonas;kep
+1;A régi orfeum;;Fővárosi Operettszínház;1932;3;0
+2;A tengerszem tündére;;Magyar Színház;1906;3;0
+3;Eleven ördög;;Népszínház;1885;3;0
+4;Felsőbb asszonyok;;Népszínház;1904;3;0
+5;Itt a macska;;;1922;;0
+6;Szentgalleni kaland;;Kaposvár;1909;3;0
+7;Nápolyi kaland;;Fővárosi Operettszínház;1934;3;0
+8;Nászutazás a kaszárnyában;;Budai Nyári Színkör;1905;3;0
+9;Csodatükör;;Fővárosi Operettszínház;1941;3;0
+10;Pünkösdi rózsa;;Revü Színház;1920;3;0
+11;Gernyóhidi lakodalom;;Óbudai Kisfaludy Színház;1929;3;0
+12;Macskazene;;Szeged;1937;3;0
+13;A muzsikus leány;;Budai Nyári Színkör;1911;3;0
+14;Zsiványkirály;;Royal Orfeum;1927;3;0
+15;Leányka;;Népszínház;1906;3;0
+16;Csak azért is;;;1934;;0
+17;Meluzina;;Városi Színház;1930;3;0
+18;Frasquita;;Városi Színház;1925;3;0
+19;A kis király;;Népopera;1914;3;0
+20;A kis kadét;;Budai Nyári Színkör;1921;3;0
+21;A királyné papucsa;;;1926;;0
+22;Apukám ;Clo-Clo;Fővárosi Operettszínház;1924;3;0
+23;Az anarchista kisasszony;;Budai Nyári Színkör;1910;3;0
+24;A púpos Boldizsár;;Magyar Színház;1922;3;0
+25;Narancsvirág;;Király Színház;1910;1;0
+26;A tökéletes asszony;;Budai Nyári Színkör;1914;3;0
+27;Olívia hercegnő;;Fővárosi Operettszínház;1922;3;0
+28;Tökéletes feleség ;Die ideale Gattin;Király Színház;1913;3;0
+29;Gólyaszanatórium;;Markus Park Színház;1937;3;0
+30;Kaszárnya áristom;;Andrássy-úti Színház;1929;3;0
+31;Bécsi tavasz;;Városi Színház;1935;3;0
+32;Falu végén kurta kocsma;;Bethlen-téri Színház;1931;3;0
+33;Első emelet 7.;;;1943;;0
+34;Zsákbamacska;;Pesti Színház;1932;3;0
+35;Nemtudomka;;Király Színház;1914;3;0
+36;Mária;;Magyar Királyi Operaház;1905;3;0
+37;A víg özvegy ;Die lustige Witwe;Magyar Színház;1906;3;0
+38;Becskereki menyecske;;Erzsébetvárosi Színház;1941;3;0
+39;Az erdészleány ;Förster Christl;Városligeti Színkör;1909;3;0
+40;Marica grófnő ;Grafin Mariza;Király Színház;1924;3;0
+41;Csodahajó;;;1937;;0
+42;Vondergold kisassszony;;Városi Színház;1917;3;0
+43;Ballag már a vén diák;;Óbudai Kisfaludy Színház;1929;3;0
+44;Sárgarigófészek;;Erzsébetvárosi Színház;1940;3;0
+45;Viki;;Magyar Színház;1935;3;0
+46;Nem leszek hálátlan;;Andrássy-úti Színház;1938;3;0
+47;Kék Duna;;Király Színház;1933;3;0
+48;Katica;;Óbudai Kisfaludy Színház;1930;3;0
+49;Fehérvári huszárok;;Budai Nyári Színkör;1933;3;6
+50;Mézeskalács;;Király Színház;1923;3;0
+51;Az ártatlan özvegy;;Városi Színház;1925;3;0
+52;Szabad a csók;;Városi Színház;1934;3;0
+53;Tisztelt ház;;;1934;;0
+54;Bál a Savoyban;;Magyar Színház;1933;3;0
+55;Miámi;;Fővárosi Operettszínház;1925;3;0
+56;Rigó Jancsi;;Fővárosi Operettszínház;1947;3;0
+57;Kávéházi Konrád;;Budai Nyári Színkör;1915;3;0
+58;3:1 a szerelem javára;;Royal Színház;1936;2;0
+59;Egy férj, két feleség;;Budai Nyári Színkör;1917;3;0
+60;Mézeshetek;;Népszínház;1901;3;0
+61;Éjféli tangó;;Király Színház;1932;3;7
+62;Donna Anna;;;1920;;0
+63;A rátartós királykisasszony;;;1904;3;0
+64;Ma éjjel szabad vagyok;;Andrássy-úti Színház;1934;3;0
+65;Fiatalság-bolondság;;Fővárosi Operettszínház;1940;3;0
+66;Egy görbe éjszaka;;Budai Nyári Színkör;1934;3;0
+67;A harang;;Király Színház;1907;3;0
+68;A csodavászon;;Népopera;1913;3;0
+69;Mesebeszéd;;Vígszínház;1944;3;0
+70;Külteleki hercegnő;;Népszínház;1905;3;0
+71;Vilmos huszárok;;Király Színház;1914;3;0
+72;Pista!;;Óbudai Kisfaludy Színház;1921;3;0
+73;Mesék az írógépről;;Városi Színház;1927;3;0
+74;Májusi muzsika;;Renaissance Színház;1925;3;0
+75;A portugál;;Magyar Színház;1905;3;0
+76;A granadai vőlegény;;Népszínház;1905;3;0
+77;Árvácska;;Budai Színkör;1924;3;0
+78;Zöld bárány;;Magyar Színház;1931;3;8
+79;Kis alamuszi;;Népszínház;1894;3;0
+80;Gyurkovics fiúk;;Városi Színház;1928;4;6
+81;Szökik az asszony;;Budai Nyári Színkör;1929;3;0
+82;A csókszanatórium;;Király Színház;1912;3;0
+83;Diákszerelem;;Óbudai Kisfaludy Színház;1927;3;0
+84;A csúnya lány;;Fővárosi Művész Színház;1930;3;4
+85;Fanny;;Magyar Királyi Operaház;1927;4;0
+86;Csicsónénak három lánya;;Fővárosi Operettszínház;1946;3;0
+87;Huszárkisasszony;;Népszínház;1903;3;0
+88;A mosoly országa;;Magyar Királyi Operaház;1930;3;0
+89;Szakítani nehéz dolog;;Magyar Színház;1936;3;0
+90;Az utolsó verebély lány;;Fővárosi Operettszínház;1928;3;0
+91;Bolond Istók;;Városi Színház;1922;3;0
+92;Senki;;Népszínház;1903;;0
+93;Ki a Tisza vizét issza;;Óbudai Kisfaludy Színház;1926;3;0
+94;Katicabogár;;Blaha Lujza Színház;1924;3;0
+95;Repülj fecském;;Király Színház;1927;3;0
+96;Kitty és Kató;;Király Színház;1926;3;0
+97;Gyergyói bál;;Magyar Színház;1941;3;0
+98;A dorozsmai szélmalom;;Budai Nyári Színkör;1934;3;5
+99;Csókkirály;;;1898;3;0
+100;Csikágói Hercegnő ;Die Herzogin von Chicago;Király Színház;1928;3;0
+101;Az okos mama;;Király Színház;1930;3;0
+102;Fehér orchideák;;Óbudai Kisfaludy Színház;1931;3;0
+103;Erzsébet;;Magyar Színház;1939;3;0
+104;Bál a pusztán;;Óbudai Kisfaludy Színház;1929;3;0
+105;A kis gróf;;Király Színház;1911;3;0
+106;Jánoska;;Király Színház;1909;3;0
+107;Vőlegényem a gazember;;Budai Nyári Színkör;1932;3;6
+108;A bajadér;;Király Színház;1922;3;0
+109;Menyasszonyháború;;Városi Színház;1923;3;0
+110;A fekete lány;;Városi Színház;1932;3;0
+111;Blaháné;;Budapesti Színház;1926;3;0
+112;A sárga dominó;;Népszínház;1907;3;0
+113;A nótás kapitány;;Fővárosi Operettszínház;1924;3;0
+114;Zsuzsi kisasszony;;Vígszínház;1915;3;0
+115;A tangókirálynő ;Die Tangokönigin;Budai Nyári Színkör;1923;;0
+116;A cárevics ;Der Zarewitsch;Városi Színház;1928;3;0
+117;Nyitott ablak;;Fővárosi Operettszínház;1932;3;0
+118;Mintha álom volna;;Budai Nyári Színkör;1923;3;0
+119;Meseáruház;;Vígszínház/Fővárosi Operettszínház;1936;3;0
+120;Antoinette;;Művész Színház;1937;3;0
+121;Egy vidám éjszaka;;Magyar Színház;1937;3;0
+122;Lavotta szerelme;;Városligeti Színkör;1917;3;0
+123;Cigányszerelem ;Zigeunerliebe;Király Színház;1910;3;0
+124;A papucs;;Pesti Színház;1933;3;0
+125;Miss Amerika;;Fővárosi Operettszínház;1929;3;0
+126;Huszárfogás;;Fővárosi Operettszínház;1930;3;0
+127;Túl a nagy krivánon;;Budai Nyári Színkör;1918;3;0
+128;Alexandra;;Király Színház;1925;3;0
+129;Csókos regiment;;Óbudai Kisfaludy Színház;1931;3;4
+130;Aranyfácán;;;1917;;0
+131;Csöpi;;;1941;;0
+132;Paganini;;Városi Színház;1926;3;0
+133;Naftalin;;Vígszínház;1908;3;0
+134;A 28-as hordár;;Óbudai Kisfaludy Színház;1930;3;0
+135;Aranymadár;;Royal Orfeum;1922;1;0
+136;Kis primadonna;;Pécs;;3;0
+137;A cirkusz csillaga;;Vígszínház;1934;3;0
+138;A kék postakocsi;;Várszínház;1923;3;0
+139;Babatündér;;Szatmár;;3;0
+140;Az oroszlánvadász;;Népszínház;1897;3;0
+141;Montmartrei Ibolya ;Das Veilchen von Montmartre;Király Színház;1935;3;0
+142;Pillangófőhadnagy;;Király Színház;1918;3;0
+143;Hajtóvadászat;;Városi Színház;1926;3;0
+144;A kis boszorkány;;Budai Nyári Színkör;1909;3;0
+145;Ezüstmenyasszony;;Royal Színház;1935;3;0
+146;A bolygó görög;;Király Színház;1905;3;0
+147;A ballerina;;Király Színház;1931;3;5
+148;Tessék beszállni;;;1933;;0
+149;Kávé habbal;;Royal Színház;1938;3;0
+150;Music Hall;;Fővárosi Operettszínház;1934;3;0
+151;Pesti család;;Király Színház;1929;3;0
+152;Százszorszép;;Városi Színház;1919;3;0
+153;Az alvó feleség;;Budapesti Színház;1926;3;0
+154;A Rotschildok;;Fővárosi Operettszínház;1932;3;0
+155;Marion;;Városi Színház;1940;3;0
+156;Szép asszony kocsisa;;Blaha Lujza Színház;1923;3;0
+157;Luxemburg grófja ;Der Graf von Luxemburg;Király Színház;1910;3;0
+158;A cirkuszhercegnő ;Die Zirkusprincessin;Király Színház;1926;3;0
+159;Frine avagy a szépség diadala;;Új Színház;1919;2;0
+160;Mária főhadnagy;;Fővárosi Operettszínház;1942;3;0
+161;Délibáb;;Budai Nyári Színkör;1922;3;0
+162;Rigó Jancsi hegedűje;;Óbudai Kisfaludy Színház;1927;3;0
+163;Az első tavasz;;Budai Nyári Színkör;1930;3;0
+164;Mulató istenek ;Der Göttergatte;Magyar Színház;1905;2;0
+165;Régi jó Budapest;;Király Színház;1925;3;0
+166;Liliputi hercegnő;;Magyar Színház;1899;3;0
+167;Őfelsége a mama;;Magyar Színház;1944;3;0
+168;Hajnali csók;;Városi Színház;1931;3;0
+169;A bécsi asszonyok ;Wiener Frauen;Városligeti Színkör;1910;;0
+170;Tommy és társa;;Király Színház;1929;;5
+171;Feketeszem éjszakája;;Óbudai Kisfaludy Színház;1929;3;0
+172;Vadvirág;;Andrássy-úti Színház;1934;3;0
+173;Fehér hattyú;;Városi Színház;1938;3;0
+174;A legkisebbik Horváth lány;;Király Színház;1927;3;0
+175;A szerelem éjszakája;;Óbudai Kisfaludy Színház;1927;3;0
+176;Babavásár;;Király Színház;1922;3;0
+177;Mimi;;Royal Színház;1935;3;0
+178;Fifine;;Magyar Színház;1902;3;0
+179;Hamupipőke;;Magyar Királyi Operaház;1912;3;0
+180;Félórás feleség;;Király Színház;1934;3;5
+181;Szibill;;Király Színház;1914;3;0
+182;Fityfiritty;;Fővárosi Operettszínház;1941;3;0
+183;A mozikirály ;Filmzauber;Király Színház;1913;3;0
+184;Miss ismeretlen;;Király Színház;1932;3;0
+185;Hercegkisasszony ;Das Fürstenkind;Magyar Királyi Operaház;1910;3;0
+186;Asszonykám;;Városi Színház;1926;3;0
+187;Mit susog a fehér akác?;;Budai Nyári Színkör;1929;3;0
+188;Három huszár;;Fővárosi Operettszínház;1940;3;0
+189;Maya;;Fővárosi Operettszínház;1931;3;0
+190;Az aranypók;;Andrássy-úti Színház;1927;3;0
+191;Éva;;Király Színház;1912;3;0
+192;Levendula a szerelem virága;;Várszínház;1923;3;0
+193;Fogadjunk!;;Budai Nyári Színkör;1916;3;0
+194;A két kapitány;;Erzsébetvárosi Színház;1943;3;0
+195;Rózsika lelkem;;Budai Nyári Színkör;1920;3;0
+196;Aki mer, az nyer ;;Budai Nyári Színkör;1935;3;7
+197;Lehullott a rezgőnyárfa;;Budai Nyári Színkör;1930;3;0
+198;Debrecenbe kéne menni;;Budai Nyári Színkör;1920;3;0
+199;A néma asszony;;;1918;;0
+200;Eső után köpönyeg;;Andrássy-úti Színház;1936;3;0
+201;Tüskerózsa;;Király Színház;1907;3;0
+202;A meztelen Pest;;Budapesti Színház;1925;;12
+203;Kék mazúr ;Die blaue Mazur;Király Színház;1921;3;0
+204;Királyfogás;;;1886;3;0
+205;Sült galamb;;Király Színház;1933;3;0
+206;Csuda Mihály szerencséje;;Magyar Színház;1926;3;0
+207;Postás Katica;;Blaha Lujza Színház;1924;4;0
+208;Négy a kislány;;Budai Nyári Színkör;1916;3;0
+209;Hollandi menyecske ;Das Hollandweibchen;Király Színház;1921;3;0
+210;Aranyeső;;Népopera;1913;3;0
+211;Mágnás Miska;;Király Színház;1916;3;0
+212;Enyém az első csók;;Andrássy-úti Színház;1928;3;0
+213;Mátyás király szerelme;;Várszínház;1921;3;0
+214;A papa lánya ;;Népszínház;1906;3;0
+215;Csipetke;;Fővárosi Operettszínház;1933;3;0
+216;Vén diófa;;Magyar Színház;1942;3;7
+217;Sárga liliom ;Die gelbe Lili;Fővárosi Operettszínház;1934;3;0
+218;Muskátli hercegnő ;Óh régi szép Tabán!;Óbudai Kisfaludy Színház;1927;3;0
+219;Marci;;Budai Színkör;1916;3;0
+220;Két Hippolit;;Népszínház;1905;3;0
+221;Don Quijote;;Nagyvárad;1909;3;0
+222;A nóta vége;;Budai Nyári Színkör;1925;3;0
+223;A pesti ucca;;Magyar Színház;1900;3;0
+224;Az ezüst sirály;;Városi Színház;1920;3;0
+225;Dinasztia;;Magyar Színház;1938;3;20
+226;Lord Piccolo;;Budai Nyári Színkör;1911;3;0
+227;Szép Ilonka;;Király Színház;1906;3;0
+228;Miciszláv;;Király Színház;1907;1;0
+229;A palatinus rózsái;;;;3;6
+230;Napfogyatkozás;;Népszínház;1900;3;0
+231;Mese a Grand Hotelben;;;1936;3;0
+232;Végre egyedül ;Endlich allein;Király Színház;1915;3;0
+233;Tubicám;;Győr, Kisfaludy Színház;1913;3;0
+234;A hetedik;;Szeged;1909;3;0
+235;Pintyőke;;Budai Nyári Színkör;1924;3;0
+236;A nőtlen férj;;;1930;;0
+237;A királynő csókja;;Fővárosi Operettszínház;1943;3;0
+238;Jogot a nőknek;;Budapesti Színház;1918;3;0
+239;Amikor a kislányból nagylány lesz;;Budai Nyári Színkör;1932;3;5
+240;Egy boldog pesti nyár;;Fővárosi Operettszínház;1943;3;0
+241;A hajdúk hadnagya;;Magyar Színház;1904;3;0
+242;Leányvásár;;Király Színház;1911;3;0
+243;Manolita;;Fővárosi Operettszínház;1932;3;0
+244;Léni néni;;Magyar Színház;1914;3;0
+245;Tatárjárás;;Vígszínház;1908;3;0
+246;Mariora;;;;3;0
+247;Eltörött a hegedűm;;Király Színház;1928;3;0
+248;A századik menyasszony;;Budai Nyári Színkör;1907;3;0
+249;Három feleség;;Népszínház;1908;3;0
+250;Göre Gábor Budapesten;;Király Színház;1907;3;8
+251;Van de nincs;;Király Színház;1908;3;0
+252;Katonadolog;;Népopera;1913;3;0
+253;Breton legenda;;Andrássy-úti Színház;1922;1;0
+254;Rébusz báró;;Király Színház;1909;3;0
+255;Az ezüstpille;;Vígszínház;1914;3;0
+256;Balról a harmadik;;Royal Orfeum;1928;3;0
+257;Párizsi divat;;Városi Színház;1928;3;0
+258;Tabáni orgonák;;Budai Nyári Színkör;1934;3;5
+259;Kleopatra;;Magyar Színház;1900;3;0
+260;Napkelet rózsája;;;;3;0
+261;Boris király;;Király Színház;1904;3;0
+262;Boronkay lányok;;Magyar Színház;1942;3;7
+263;A rikkancs;;Magyar Színház;1904;3;0
+264;Hazudik a muzsikaszó;;Budai Nyári Színkör;1922;3;0
+265;Csibészkirály;;Király Színház;1907;3;0
+266;Limonádé ezredes;;Király Színház;1912;3;0
+267;A három grácia;;Fővárosi Operettszínház;1923;3;0
+268;Délibáb hercege;;Blaha Lujza Színház;1921;3;0
+269;Farsang tündére ;Die Faschingsfee;Király Színház;1919;3;0
+270;Ibusz kisasszony;;Budai Nyári Színkör;1932;3;4
+271;Fekete Péter;;Vígszínház;1943;3;0
+272;A csillagok bolondja ;Der Sterngucker;Népopera;1916;3;0
+273;Karikagyűrű;;Király Színház;1915;3;0
+274;Grand Café;;Fővárosi Operettszínház;1935;3;0
+275;Sztrájkol a gólya;;Vígszínház;1913;3;0
+276;A gárdista;;Városi Színház;1923;3;0
+277;Zenebona;;Fővárosi Operettszínház;1928;3;0
+278;Menyecskék;;Népszínház;1903;3;0
+279;Férjhez ment a feleségem;;Eskü Téri Színház;1921;3;0
+280;Cserebogár, sárga cserebogár;;Óbudai Kisfaludy Színház;1931;3;0
+281;Délibáb;;Szeged;1911;3;0
+282;Erdélyi diákok;;Budai Nyári Színkör;1929;;0
+283;Lili bárónő;;Városi Színház;1919;2;0
+284;Az idegen menyasszony;;Budai Nyári Színkör;1922;3;0
+285;A bús özvegy;;Városligeti Színkör;1907;3;0
+286;Budapest szépe;;Budai Nyári Színkör;1901;;6
+287;Éva grófnő;;Király Színház;1928;3;0
+288;Niobe;;Népszínház;1902;3;0
+289;Gyönyvirág kisasszony;;Budai Nyári Színkör;1915;3;0
+290;Kis kofa;;Magyar Színház;1903;3;0
+291;Mókaházasság;;Népszínház;1906;3;0
+292;Lila test, sárga sapka;;Nyári Operettszínház;1930;3;6
+293;A csavargólány;;;1936;;0
+294;Katalin;;Budai Nyári Színkör;1902;3;0
+295;Hajrá Hollywood!;;Király Színház;1931;3;0
+296;Tengerész Kató;;Népopera;1912;3;0
+297;Weekend;;Budai Nyári Színkör;1932;3;7
+298;A csókos asszony;;Városi Színház;1926;3;0
+299;Kiss és kis;;Városi Színház;1927;3;0
+300;Kutyuskám;;Andrássy-úti Színház;1919;1;0
+301;Amerika lánya;;Városi Színház;1924;3;0
+302;Hawai rózsája;;Király Színház;1932;3;0
+303;Viktória;;Király Színház;1930;3;5
+304;Csak tréfa;;Magyar Színház;1904;3;0
+305;Lengyel legionárius;;;1898;;0
+306;Én és a kisöcsém;;Fővárosi Operettszínház;1934;3;0
+307;Casanova;;Népszínház;1902;3;0
+308;Ördöglovas ;Der Feufelsreiter;Király Színház;1934;3;0
+309;Muzsikus Ferkó;;Budai Nyári Színkör;1926;3;0
+310;Vannak még férfiak;;Markus Park Színház;1945;3;0
+311;Júlia;;Városi Színház;1937;3;0
+312;Csókprofesszor;;Magyar Színház;1931;3;5
+313;A harapós férj;;Fővárosi Operettszínház;1931;3;0
+314;Berger Zsiga;;Városligeti Színkör;1907;3;0
+315;A császárnő apródja;;Király Színház;1925;3;0
+316;Három a tánc;;Király Színház;1922;3;0
+317;Krizantém;;Városi Színház;1924;3;0
+318;Poldi;;Király Színház;1930;3;4
+319;Kék orgonák;;Belvárosi Színház;1918;1;0
+320;Cs.Sz.K. ;Csalódott Szerelmesek Klubja;Budai Nyári Színkör;1931;3;5
+321;Szeressen kedves!;;Fővárosi Operettszínház;1934;3;0
+322;Tündérszerelem;;Népszínház;1907;3;0
+323;A hölgy hozzám tartozik;;Andrássy-úti Színház;1938;3;0
+324;A múmia;;Magyar Színház;1904;3;0
+325;A fenséges asszony ;Eine Frau von Format;;;3;0
+326;A csikósbárónő;;;;3;0
+327;Cigánykirály;;Városi Színház;1927;3;0
+328;Zimberi-zombori szépasszony;;Erzsébetvárosi Színház;1939;3;0
+329;Pacsirta;;Király Színház;1918;3;0
+330;Szép a világ ;Schön ist die Welt;;;3;0
+331;A szegény ördög;;Király Színház;1934;3;0
+332;A fekete huszár;;Blaha Lujza Színház;1924;3;0
+333;Cigányprímás ;Der Zigeunerprimas;Király Színház;1913;3;0
+334;Hulló falevél;;Városi Színház;1936;3;0
+335;Tánc a boldogságért;;Budai Nyári Színkör;1933;3;0
+336;Kis császár;;Népszínház;1904;3;0
+337;A hárem;;Fővárosi Operettszínház;1931;3;0
+338;Jobb, mint otthon;;Nyári Operettszínház;1930;3;0
+339;Dorottya;;Szeged;1929;3;0
+340;Tiszavirág;;Király Színház;1915;3;0
+341;XIV-ik René;;Vígszínház;1940;3;0
+342;Gül baba;;Király Színház;1905;3;0
+343;János vitéz;;Király Színház;1904;;0
+344;Halványsárga rózsa;;Városi Színház;1930;3;0
+345;Tokaji aszu;;Magyar Színház;1940;3;0
+346;Táncos huszárok;;Király Színház;1909;3;0
+347;Tábornokné;;Magyar Színház;1943;3;9
+348;Katinka grófnő;;Népszínház;1904;3;0
+349;Szupécsárdás;;Városi Színház;1929;3;0
+350;Bob herceg;;Népszínház;1902;3;0
+351;A régi nyár;;Budai Nyári Színkör;1928;3;7
+352;A szerelmes királynő ;Die verliebte Königin;;;3;0
+353;Asszonyok bolondja;;Budai Nyári Színkör;1923;3;0
+354;Falusi kislány Pesten;;Óbudai Kisfaludy Színház;1929;3;9
+355;Történnek még csodák;;Magyar Színház;1935;3;0
+356;Az obsitos;;Vígszínház;1910;3;0
+357;Csárdáskirálynő ;Die Csardasfürstin;Király Színház;1916;3;0
+358;Szépségkirálynő;;Király Színház;1935;3;0
+359;Borcsa Amerikában;;Óbudai Kisfaludy Színház;1927;3;6
+360;Tessék kiszállni;;;1933;;0
+361;Szultán;;Népszínház;1892;3;0
+362;Magyar rapszódia;;Óbudai Kisfaludy Színház;1929;;4
+363;Elssler Fanny;;Király Színház;1923;3;0
+364;Sportlovagok;;Fővárosi Nyári Színház;1905;3;0
+365;Őfelsége frakkja;;Király Színház;1931;3;0
+366;A gróf úr;;Újpest;1924;3;0
+367;A hamburgi menyasszony;;Városi Színház;1922;3;0
+368;A drótostót ;Der Rastelbinder;Magyar Színház;1903;2;0
+369;Iglódi diákok;;Kolozsvár;1907;3;0
+370;A kék lámpás;;Király Színház;1933;3;3
+371;Annabál;;Király Színház;1925;3;0
+372;Leány a talpán;;Royal Színház;1942;3;0
+373;Mexikói leány;;Király Színház;1912;3;0
+374;Vedd le a kalapod a honvéd előtt;;;1942;;0
+375;Aranyvirág;;Király Színház;1903;3;0
+376;Sárgapitykés közlegény;;;1937;;0
+377;A falusi madonna;;Király Színház;1907;3;0
+378;A sárga kabát ;Die gelbe Jacke;Király Színház;1923;3;0
+379;Mary Ann;;Király Színház;1908;3;0
+380;Cigánygrófné;;Király Színház;1920;3;0
+381;A királyné rózsája;;Király Színház;1926;3;0
+382;Egy csók és más semmi;;Magyar Színház;1933;3;0
+383;Alvinici huszárok;;Király Színház;1930;3;5
+384;Sisters;;Belvárosi Színház;1929;3;9
+385;A ferencvárosi angyal;;Royal Orfeum;1911;3;0
+386;Tilos a csók;;Király Színház;1909;3;0
+387;Joséphine császárné ;Kaiserin Joséphine;Városi Színház;1937;3;0
+388;A kislány;;Revüszínház;1920;3;0
+389;Pusztai szerenád;;Fővárosi Operettszínház;1939;3;0
+390;A sziámi herceg;;Budai Nyári Színkör;1910;3;0
+391;A kék álarc;;Budai Nyári Színkör;1923;3;0
+392;Az ördög nem alszik;;Magyar Színház;1940;3;0
+393;Amit a lányok akarnak;;Király Színház;1932;2;11
+394;Csókos asszony ;Clary-Clara;Eskü Téri Színház;1921;3;0
+395;Masinka;;Népszínház;1903;3;0
+396;Virágcsata;;Népszínház;1894;3;0
+397;A tánckirály;;Budai Nyári Színkör;1921;3;0
+398;Offenbach;;Király Színház;1920;3;0
+399;A legvitézebb huszár;;Magyar Színház;1905;3;0
+400;Mesebeli herceg;;Budai Nyári Színkör;1924;3;0
+401;Pesti nők ;Wiener Damen;Budai Nyári Színkör;1903;3;0
+402;Csárdás;;Budai Nyári Színkör;1936;3;10
+403;A bakter;;Kolozsvár;1904;1;0
+404;Fecskék;;Király Színház;1904;3;0
+405;Az aranyhalacska;;Nagyvárad;1909;3;0
+406;Aranyhattyú;;Király Színház;1927;3;0
+407;A bajusz;;Magyar Színház;1903;3;0
+408;Doktorkisasszonyok;;Magyar Színház;1903;3;0
+409;Egyiptom gyöngye;;Magyar Színház;1899;3;0
+410;Rézi;;Népszínház;1904;3;0
+411;Angóramacska;;Vígszínház;1940;3;0
+412;Gróf Rinaldo;;Király Színház;1918;3;0
